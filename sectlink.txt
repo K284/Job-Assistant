@@ -1,0 +1,69 @@
+Information Technology=https://www.naukri.com/information-technology-jobs
+
+Telecommunication=https://www.naukri.com/telecommunication-jobs
+
+Hotel management=https://www.naukri.com/hotels-jobs?k=hotels
+
+Media=https://www.naukri.com/media-jobs?k=media
+
+Banking=https://www.naukri.com/banking-jobs?k=banking
+
+Tourism=https://www.naukri.com/tourism-jobs?k=tourism
+
+Agriculture=https://www.naukri.com/agriculture-jobs?k=agriculture
+
+Food processing=https://www.naukri.com/food-processing-jobs?k=food%20processing
+
+Dairy farming=https://www.naukri.com/dairy-jobs?k=dairy
+
+Leather industry=https://www.naukri.com/leather-jobs?k=leather
+
+Agro-based industrial units=https://www.naukri.com/agro-based-industry-jobs
+
+Mining=https://www.naukri.com/mining-jobs?k=mining
+
+Gas supply=https://www.naukri.com/gas-supply-jobs?k=gas%20supply
+ 
+Water supply=https://www.naukri.com/water-supply-jobs?k=water%20supply
+
+Pharmaceutical=https://www.naukri.com/pharmaceutical-jobs?k=pharmaceutical
+
+Agriculture equipment manufacturing=https://www.naukri.com/agriculture-equipment-design-jobs?k=agriculture%20equipment%20design
+
+Craft making business=https://www.naukri.com/craft-making-jobs?k=craft%20making
+
+Soap making business=https://www.naukri.com/soap-manufacturing-jobs
+
+Jewellery making=https://www.naukri.com/jewellery-making-jobs
+
+Beautician=https://www.naukri.com/beautician-jobs-in-india?k=beautician&l=india
+
+Handloom and handicrafts=https://www.naukri.com/handicraft-textile-jobs
+
+Aerospace=https://www.naukri.com/aerospace-jobs-in-india?k=aerospace&l=india
+
+Biotechnology=https://www.naukri.com/biotechnology-jobs-in-india?k=biotechnology&l=india
+
+Ship building=https://www.naukri.com/ship-building-jobs-in-india?k=ship%20building&l=india
+
+Software services=https://www.naukri.com/software-services-jobs-in-india?k=software%20services&l=india
+
+Medical tourism=https://www.naukri.com/medical-tourism-jobs-in-india?k=medical%20tourism&l=india
+
+Entertainment=https://www.naukri.com/entertainment-jobs-in-india?k=entertainment&l=india
+
+Petrochemicals=https://www.naukri.com/petrochemicals-jobs-in-india?k=petrochemicals&l=india
+
+Textile industry=https://www.naukri.com/textiles-jobs-in-india?k=textiles&l=india
+
+Horticulture=https://www.naukri.com/horticulture-jobs-in-india?k=horticulture&l=india
+
+Poultry farming=https://www.naukri.com/poultry-jobs-in-india?k=poultry&l=india
+
+Floriculture=https://www.naukri.com/floriculture-jobs-in-india?k=floriculture&l=india
+
+FMCG=https://www.naukri.com/fmgc-jobs-in-india?k=fmgc&l=india
+
+Marketing=https://www.naukri.com/marketing-jobs-in-india?k=marketing&l=india
+
+Tea industry=https://www.naukri.com/tea-jobs-in-india?k=tea&l=india
